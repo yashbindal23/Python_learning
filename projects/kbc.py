@@ -1,5 +1,3 @@
-#KBC
-
 question=[
     ['How many sides are there in square?\nA. 4\tB. 3\nC. 5\tD. 10\nEnter your option: ', 'A', 1000],
     ['How many sides are there in triangle?\nA. 4\tB. 3\nC. 5\tD. 10\nEnter your option: ', 'B', 1000],
